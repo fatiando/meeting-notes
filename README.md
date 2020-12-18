@@ -24,7 +24,10 @@ future directions for the project,
 interesting bits of geoscience, and more!
 
 📜 The live **meeting notes** can be read and edited by anyone on HackMD: 
-https://hackmd.io/@fatiando/community-calls-2020.
+
+* 2021: https://hackmd.io/@fatiando/community-calls-2021
+* 2020: https://hackmd.io/@fatiando/community-calls-2020
+
 These notes are synced to this repository
 (see the `community-calls` folder).
 
