@@ -1,3 +1,9 @@
+# NOTICE
+
+This repository is archived. Content and functionality has been moved to https://github.com/fatiando/community
+
+---
+
 # Notes from Fatiando meetings
 
 Notes and minutes from our meetings are archived in this repository.
